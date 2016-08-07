@@ -1,0 +1,12 @@
+ .navbar-nav {
+background-color: red;
+color: white;
+text-decoration: bold;
+
+}
+
+.pgray {
+	background-color:gray;
+	padding:20px 20px 20px 20px;
+	margin:20px 20px 20px 20px;
+}
